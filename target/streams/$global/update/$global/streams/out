@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#aws-lambda-scala_2.12;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#aws-lambda-scala_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.12.1 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b9e3d45[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@701c83ba[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.12.1[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.12.1 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.12.1] org.scala-lang#scala-library;2.12.1[0m
@@ -242,7 +242,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.1!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 467ms :: artifacts dl 15ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1050ms :: artifacts dl 26ms[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-lambda-scala_2.12;1.0 compile produced in /home/abhishek/Documents/open-source-projects/AWS-Lambda-Scala/target/resolution-cache/reports/default-aws-lambda-scala_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-lambda-scala_2.12;1.0 runtime produced in /home/abhishek/Documents/open-source-projects/AWS-Lambda-Scala/target/resolution-cache/reports/default-aws-lambda-scala_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-lambda-scala_2.12;1.0 test produced in /home/abhishek/Documents/open-source-projects/AWS-Lambda-Scala/target/resolution-cache/reports/default-aws-lambda-scala_2.12-test.xml[0m
@@ -256,5 +256,5 @@
 [0m[[0mdebug[0m] [0m	report for default#aws-lambda-scala_2.12;1.0 docs produced in /home/abhishek/Documents/open-source-projects/AWS-Lambda-Scala/target/resolution-cache/reports/default-aws-lambda-scala_2.12-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-lambda-scala_2.12;1.0 pom produced in /home/abhishek/Documents/open-source-projects/AWS-Lambda-Scala/target/resolution-cache/reports/default-aws-lambda-scala_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-lambda-scala_2.12;1.0 scala-tool produced in /home/abhishek/Documents/open-source-projects/AWS-Lambda-Scala/target/resolution-cache/reports/default-aws-lambda-scala_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (467ms resolve - 15ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1050ms resolve - 26ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
