@@ -1,4 +1,4 @@
-# AWS-Lambda-Scala
+# AWS-Lambda-Scala-Mailer
 
 A Sample mailer function to notify on every AWS S3 action using AWS lambda. Here I have used AWS Lambda to demonstrate the serverless application.In this application one can get notified whenever action performed on S3 like DeleteObject,PutObject etc. with the help of Lambda handler.
 
