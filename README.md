@@ -25,4 +25,4 @@ sbt assembly
 4. Add environmental variable EMAIL=<your@example.com> and PASSWORD=yourmailpassword
 5. Upload the excutable jar to lambda.
 
-Now Test your function with uploading an object to S3 bucket associated with AWS-lambda function.
+Now Test function with uploading an object to S3 bucket associated with AWS-lambda function.
